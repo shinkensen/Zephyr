@@ -1,0 +1,21 @@
+Name,Price,Link,Description,LCSC Part Number,Quantity ,Total Cost,Rolling Total
+Motor,$21.33,https://usa.banggood.com/Racerstar-3650-Motor-Brushless-Waterproof-Sensorless-1-or-10-RC-Car-Part-5900-or-4300-or-3900-or-2300KV-p-1110570.html?cur_warehouse=CN&ID=516951,5.1k Ressistor,C163372,100,$0.40,$0.40
+ESC,$17.17,https://www.banggood.com/60A-Brushless-Waterproof-ESC-Electric-Speed-Controller-for-1-or-10-RC-Car-Parts-p-1772537.html?gmcCountry=US&currency=USD&cur_warehouse=CN&createTmp=1,USB-C Connector,C709357,10,$0.70,$1.10
+Main 20kg Digital Servo,$7.01,https://www.aliexpress.us/item/3256806701241586.html?src=google&pdp_npi=4%40dis%21USD%217.01%217.01%21%21%21%21%21%40%2112000038623699514%21ppc%21%21%21&gatewayAdapt=glo2usa,Inductor,C2976971,2,$2.84,$3.94
+PCB,$5.12,,Bat Connector,C161870,10,$0.75,$4.69
+PCB Parts,$26.81,-------------------------------------------->,LDO Voltage reg (5v-3.3v),C23380830,5,$0.46,$5.15
+Battery (2s 2200mAH LiPo),$0.00,I am providing,Buck Converter (7.4-5v),C51661,1,$0.66,$5.81
+2x SG90 Servos,$0.00,I am providing,ESP-32,C2913201,1,$4.91,$10.72
+5mm Steel Rod (Rear Axel),$3.14,https://www.aliexpress.us/item/3256809161253443.html?spm=a2g0o.detail.0.0.79ceKx6pKx6p4G&mp=1&pdp_npi=6%40dis%21USD%21USD%205.46%21USD%204.96%21%21USD%204.96%21%21%21%40210328c017676427701633651e5987%2112000048850251164%21ct%21US%216403294486%21%211%210%21&gatewayAdapt=glo2usa,CE & EN Buttons,C36498961,5,$0.14,$10.86
+1mm Steel Cables,$6.94,https://www.aliexpress.us/item/3256807537295614.html?spm=a2g0o.productlist.main.8.73ae5720QWWh84&aem_p4p_detail=202601051215497588708366477000009241854&algo_pvid=1a87fea6-00cf-42ec-91d5-8a1c0e76fbce&algo_exp_id=1a87fea6-00cf-42ec-91d5-8a1c0e76fbce-7&pdp_ext_f=%7B%22order%22%3A%221562%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.86%212.24%21%21%2119.88%2115.59%21%402103129f17676441497303543e7a8f%2112000042009480882%21sea%21US%216403294486%21X%211%210%21n_tag%3A-29911%3Bd%3A7d6ed982%3Bm03_new_user%3A-29895%3BpisId%3A5000000196390290&curPageLogUid=290xd4gZrbA0&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007723610366%7C_p_origin_prod%3A&search_p4p_id=202601051215497588708366477000009241854_2,3.3k Ressistor,C2907469,100,$0.22,$11.08
+Camera Module (OV2640),$6.51,https://www.banggood.com/LILYGO-TTGO-Camera-Module-OV2640-2-Megapixel-Adapter-Support-YUV-RGB-JPEG-For-T-Camera-Plus-ESP32-DOWDQ6-8MB-SPRAM-p-1478816.html?cur_warehouse=CN&ID=6156875&rmmds=detail-top-buytogether-auto&trace_id=cbbe1767036394575,10k Ressistor,C2907423,100,$0.21,$11.29
+2S LiPo Charger,$11.75,https://usa.banggood.com/HTRC-H4AC-20W-2A-Blance-Charger-for-2-4s-Lipo-or-LiFe-or-LiHV-Battery-p-1257244.html?cur_warehouse=CN&ID=47184,2200uF Capacitor,C44598,5,$0.75,$12.04
+Shipping for the chassis,$8.92,,33ohm Ressistor,C18005,100,$0.35,$12.39
+,,With Tax,4.7k Ressitor,C17936,100,$0.33,$12.72
+,$114.70,$125.02,3 Pin Header for ESC,C49257,50,$0.85,$13.57
+,,,24pin Connector for OV2650,C2856805,5,$0.41,$13.98
+,,,Diode,C22452,10,$0.43,$14.41
+,,,Diode,C47460,3,$0.14,$14.55
+,,,470uF Capacitor,C2977552,10,$0.60,$15.15
+,,,1uF Capacitor,C1848,10,$0.22,$15.37
+,,,Shipping,Global Direct Standard Line,1,$11.44,$26.81

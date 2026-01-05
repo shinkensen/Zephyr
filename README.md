@@ -19,5 +19,6 @@ Features:
 BOM: 
 
 <br/>
-<img width="1442" height="632" alt="image" src="https://github.com/user-attachments/assets/b35cc2cc-00fa-4441-9d8e-9a0a9184cc9c" />
+<img width="1445" height="644" alt="image" src="https://github.com/user-attachments/assets/eec3a81d-4c29-45e0-a716-abc0793657ef" />
+
 

@@ -1,9 +1,4 @@
 # Zephyr
-
-<p align="center">
-  <strong>A high-performance RC Hypercar built for speed and precision.</strong>
-</p>
-
 ---
 
 ## What it is

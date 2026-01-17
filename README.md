@@ -142,3 +142,9 @@ What is are the next steps for zephyr (how can I improve it)?
 ### Wiring Diagram & Bottom Chassis
 <img width="1054" height="501" alt="Untitled" src="https://github.com/user-attachments/assets/7567dc4f-1b2d-4611-8909-86d069f521b6" />
 <img width="1391" height="505" alt="Screenshot 2026-01-07 210737" src="https://github.com/user-attachments/assets/e49a0b35-29b2-4221-b373-24204a354468" />
+
+
+
+PCB Gerber:
+
+[Gerber_PCB1_2026-01-17.zip](https://github.com/user-attachments/files/24690630/Gerber_PCB1_2026-01-17.zip)

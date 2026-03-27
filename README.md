@@ -45,6 +45,15 @@ What is are the next steps for zephyr (how can I improve it)?
 - [ ] **Add headlights**
 
 ---
+## Chassis Pictures
+
+<img width="1544" height="760" alt="Screenshot 2026-01-07 205635" src="https://github.com/user-attachments/assets/83220c4c-da43-430b-b432-1af65ae68ae8" />
+<img width="1082" height="645" alt="Screenshot 2026-01-07 205621" src="https://github.com/user-attachments/assets/dbae0829-c273-40a9-8b7a-82bab27e48b9" />
+<img width="1418" height="647" alt="Screenshot 2026-01-07 205609" src="https://github.com/user-attachments/assets/12800879-9acc-4332-9fed-4981af6ee257" />
+<img width="1439" height="708" alt="Screenshot 2026-01-07 205600" src="https://github.com/user-attachments/assets/0bd7ca9d-829b-4363-a3be-add07fd2b528" />
+<img width="1221" height="1150" alt="Screenshot 2026-01-07 205547" src="https://github.com/user-attachments/assets/7b4e203e-7b5a-477d-b4c5-f9885f3355fb" />
+<img width="968" height="1209" alt="Screenshot 2026-01-07 205642" src="https://github.com/user-attachments/assets/038d5e58-1a57-4d14-b42e-a5606197e52e" />
+
 
 ## Hardware & Electronics
 

@@ -75,3 +75,9 @@ What is are the next steps for zephyr (how can I improve it)?
 PCB Gerber:
 
 [Gerber_PCB1_2026-01-17.zip](https://github.com/user-attachments/files/24690630/Gerber_PCB1_2026-01-17.zip)
+
+## BOM
+
+<img width="1772" height="1555" alt="image" src="https://github.com/user-attachments/assets/0f4e51de-e157-47c6-bfbc-3acc1944cfcc" />
+
+
